@@ -27,6 +27,7 @@
 		65F57D4A2475DA9300660C63 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65F57D4D2475DB3200660C63 /* FitFilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitFilView.swift; sourceTree = "<group>"; };
 		65F57D4F2475DBA800660C63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		65F57D502475E82F00660C63 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		651987A224757C01007D6C9F = {
 			isa = PBXGroup;
 			children = (
+				65F57D502475E82F00660C63 /* README.md */,
 				651987AD24757C01007D6C9F /* Pack SwiftUI */,
 				651987AC24757C01007D6C9F /* Products */,
 			);
